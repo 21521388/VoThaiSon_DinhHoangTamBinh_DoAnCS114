@@ -1,6 +1,9 @@
 Final Project CS114.011.KHCL
+
 TOPIC: GARBAGE DETECTION
 
-MEMBERS
+MEMBERS:
+
 21521873 - Dinh Hoang Tam Binh
+
 21521388 - Vo Thai Son
