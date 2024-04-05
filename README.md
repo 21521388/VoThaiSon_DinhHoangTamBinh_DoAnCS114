@@ -35,7 +35,7 @@ Dữ liệu được thu thập thủ công bằng cách chụp hình ảnh rác
 + 181 vật thể là thủy tinh.
 + 209 vật thể là kim loại.
 + 236 vật thể là giấy
-+ 279 vật thể là nhựa. 
++ 279 vật thể là nhựa. \
 \
 **2.3 Xử lý dữ liệu** 
 + Đánh nhãn và đóng khung dữ liệu: Roboflow
