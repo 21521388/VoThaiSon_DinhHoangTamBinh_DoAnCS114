@@ -39,7 +39,7 @@ Dữ liệu được thu thập thủ công bằng cách chụp hình ảnh rác
 \
 **2.3 Xử lý dữ liệu** 
 + Đánh nhãn và đóng khung dữ liệu: Roboflow
-+ Ảnh sẽ được resize về với kích thước 640 x 640 px.
++ Ảnh sẽ được resize về với kích thước 640 x 640 px.\
 **2.4 Phương pháp sử dụng** \
 Yolov8
 
